@@ -1,0 +1,3 @@
+admin:manyu
+user1:123456
+manyu:123456
